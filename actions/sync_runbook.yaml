@@ -1,0 +1,5 @@
+description: >-
+  Sync a runbook from one workspace to another, including its referenced
+  actions.
+workflow: 'transposit/sync_runbook:v1.0.0'
+prettyName: Sync runbook
