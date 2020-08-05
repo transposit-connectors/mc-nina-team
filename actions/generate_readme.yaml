@@ -1,0 +1,5 @@
+description: >-
+  Generate README (and www documentation) for a service in the
+  transposit-connectors org at GitHub
+workflow: 'transposit/generate_readme_for_service:latest'
+prettyName: Generate README
