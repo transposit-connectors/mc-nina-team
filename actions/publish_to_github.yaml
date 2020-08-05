@@ -1,0 +1,5 @@
+description: >-
+  Publish the GitHub version of a workflow or integrator to the transposit org
+  on all servers.
+workflow: 'transposit/publish_workflow:v1.0.2'
+prettyName: Publish from GitHub
