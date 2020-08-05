@@ -1,0 +1,2 @@
+workflow: 'transposit/validate_readme_for_service:latest'
+prettyName: validate_readme
