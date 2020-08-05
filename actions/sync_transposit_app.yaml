@@ -1,0 +1,3 @@
+description: Sync a Transposit app from one place to another
+workflow: 'transposit/sync_transposit_app:latest'
+prettyName: Sync Transposit app
